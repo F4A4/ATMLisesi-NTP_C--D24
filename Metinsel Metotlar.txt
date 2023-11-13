@@ -1,0 +1,100 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////
+public void DenemeMetot(string mesaj)
+{
+    MessageBox.Show(mesaj);
+}
+
+//////////////////////////////////////////////////////
+
+public string metot2(string metin,string metin1,string metin2)
+        {
+            string bilestir=metin + metin1 + metin2;
+            string Bbilestir=bilestir.ToUpper();
+
+            return Bbilestir;
+ 
+        }
+
+///////////////////////////////////////////////////////
+
+public void Metot()
+        {
+            MessageBox.Show("Hoþgeldin FATMA");
+ 
+        }
+
+////////////////////////////////////////////////////////
+
+public string Metot2()
+        {
+            return "Hoþgeldin Gönlümün Sultaný";
+ 
+        }
+
+
+///////////////////////////////////////////////////////
+
+public void Metot3(string mesaj)
+        {
+            MessageBox.Show(mesaj);
+ 
+        }
+
+//////////////////////////////////////////////////////
+
+public void sorubir(string metin)
+        {
+            MessageBox.Show(metin);
+          
+         }
+
+//////////////////////////////////////////////////////
+
+public string soruýký(string metin,string deger)
+        {
+            string sonuc;
+            if (deger == "Büyük Yaz")
+            {
+                sonuc=metin.ToUpper();
+            }
+            else if(deger=="Küçük Yaz")
+            {
+                sonuc=metin.ToLower();
+            }
+            else
+            {
+                return metin;
+            }
+            return sonuc;
+         }
+
+////////////////////////////////////////////////////////
+
+public void Deneme(string metin)
+        {
+            MessageBox.Show(metin);
+ 
+        }
+
+///////////////////////////////////////////////////////
+
+public string MesajVer(string metin)
+        {
+            if (radioButton1.Checked)
+            {
+                return metin.ToUpper();
+            }
+            else
+            {
+                return metin.ToLower();
+            }
+
+            
+        }
+
+////////////////////////////////////////////////////////
+
+
+
+

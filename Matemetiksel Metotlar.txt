@@ -1,0 +1,90 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////
+public int DenemeMetot2(int sayi)
+{ 
+     return sayi * sayi;
+}
+
+///////////////////////////////////////////////
+
+public int Alan(int kýsakenar, int uzunkenar)
+        {
+            return kýsakenar * uzunkenar;
+        }
+
+
+//////////////////////////////////////////////
+
+public int UcgenAlan(int taban, int yukseklýk)
+        {
+            return taban * yukseklýk / 2;
+
+        }
+
+//////////////////////////////////////////////
+
+ public int BuyukSayý(int sayi1, int sayi2)
+        {
+            int sonuc = 0;
+            if (sayi1 > sayi2)
+            {
+                sonuc = sayi1;
+
+            }
+            else if (sayi1 < sayi2)
+            {
+                sonuc = sayi2;
+            }
+
+            return sonuc;
+
+        }
+
+////////////////////////////////////////////////
+
+public int Faktorýyel(int sayýlar)
+        {
+            int sonuc5 = 1;
+            //i 1den baþlamalý
+            //sayi dahil olmalý
+            //carpim 0 olursa sonuc 0 çýkar yani 1 olmalý
+            for (int i =1; i <=sayýlar; i++)
+			{
+            
+                sonuc5 = sonuc5 * i;
+			 
+			}
+                return sonuc5;
+
+        }
+
+/////////////////////////////////////////////////////
+
+public int UsAlma(int sayi)
+        {
+
+            return sayi * sayi;
+
+        }
+
+////////////////////////////////////////////////////////
+
+ public int UsAlma(int sayi1, int usal)
+        {
+            int sonuc=1;
+            for (int i = 0;  i< usal; i++)
+            {
+                sonuc = sonuc * sayi1; 
+            }
+            return sonuc;
+        }
+
+///////////////////////////////////////////////////////
+
+ public void Deneme(int sayi)
+        {
+            MessageBox.Show(sayi.ToString());
+        }
+
+///////////////////////////////////////////////////////
+

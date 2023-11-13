@@ -1,0 +1,9 @@
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\bin\Debug\KurucuSiniflar.exe
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\bin\Debug\KurucuSiniflar.pdb
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\obj\x86\Debug\KurucuSiniflar.Form1.resources
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\obj\x86\Debug\KurucuSiniflar.Properties.Resources.resources
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\obj\x86\Debug\KurucuSiniflar.exe
+C:\Users\MO-04\Desktop\KurucuSiniflar\KurucuSiniflar\obj\x86\Debug\KurucuSiniflar.pdb

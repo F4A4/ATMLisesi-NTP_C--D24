@@ -1,0 +1,8 @@
+C:\Users\ogr\Desktop\KodKutuphanem\KodKutuphanem\bin\Debug\KodKutuphanem.exe
+C:\Users\ogr\Desktop\KodKutuphanem\KodKutuphanem\bin\Debug\KodKutuphanem.pdb
+C:\Users\ogr\Desktop\KodKutuphanem\KodKutuphanem\obj\x86\Debug\KodKutuphanem.Form1.resources
+C:\Users\ogr\Desktop\KodKutuphanem\KodKutuphanem\obj\x86\Debug\KodKutuphanem.Properties.Resources.resources
+C:\Users\ogr\Desktop\KodKutuphanem\KodKutuphanem\obj\x86\Debug\KodKutuphanem.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\KodKutuphanem\KodKutuphanem\obj\x86\Debug\KodKutuphanem.exe
+C:\Users\ogr\Desktop\KodKutuphanem\KodKutuphanem\obj\x86\Debug\KodKutuphanem.pdb
+C:\Users\ogr\Desktop\KodKutuphanem\KodKutuphanem\obj\x86\Debug\KodKutuphanem.csprojResolveAssemblyReference.cache
